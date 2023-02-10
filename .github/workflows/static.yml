@@ -1,0 +1,106 @@
+<html>
+<head>
+<title>
+
+
+QUÉ ES HTML
+
+
+</title>
+<h1> 
+<p>
+<center><body bgcolor=black text=white>
+QUÉ ES HTML
+
+</p>
+</h1>
+<h2>
+<p>
+HISTORIA DE HTML
+</p>
+</h2>
+<h4>
+HTML es un lenguaje de marcado utilizado para crear páginas web. Fue desarrollado en 1989 por Tim Berners-Lee en el CERN para compartir información en Internet. Con el tiempo, ha evolucionado y se ha convertido en un estándar universal para la creación de contenido en la web, compatible con la mayoría de los navegadores.
+</h4>
+<center><img src="data:image/jpeg;base64,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" alt=imagen de los lenguajes>
+
+
+
+
+
+<p>
+<h2>
+ ¿Que podemos hacer con HTML?
+</h2>
+</p>
+<p>
+<h4> 
+Con HTML, se pueden crear y diseñar páginas web, y añadir diferentes tipos de contenido como texto, imágenes, videos, formularios, enlaces, listas, tablas, etc. HTML permite estructurar el contenido de una página web y darle un aspecto atractivo y organizado al mismo.
+
+Además, HTML permite hacer páginas web interactivas agregando elementos como botones, formularios y elementos de JavaScript, lo que permite a los usuarios interactuar con la página web.
+</h4>
+</p>
+<p>
+<h2> ¿Porque deberíamos utilizar HTML?
+</h2>
+</p>
+<p>
+<ul style= "list-style-type: lower-greek;">
+<h4> 
+<li>Es un lenguaje de marcado estándar: HTML es el estándar universal para la creación de páginas web y es compatible con la mayoría de los navegadores web.<li>
+</h4>
+<p>
+<h4>
+<li>Fácil de aprender: HTML es un lenguaje de marcado simple y fácil de aprender, incluso para aquellos sin experiencia previa en programación.<li>
+</h4>
+</p>
+<p>
+<h4>
+<li>Creación de páginas web atractivas: HTML permite crear páginas web estéticamente atractivas y organizadas, con diferentes tipos de contenido como texto, imágenes, videos, formularios, etc.<li>
+</h4>
+</p>
+<p>
+<h4>
+<li>Interactividad: HTML permite hacer páginas web interactivas añadiendo elementos como botones, formularios y elementos de JavaScript.<li>
+</h4>
+</p>
+<p>
+<h4>
+<li>Esencial para el desarrollo web: HTML es una herramienta esencial para el desarrollo de aplicaciones web y el diseño de sitios web, ya que es el lenguaje básico que permite crear la estructura de una página web.<li>
+</h4>
+</ul>
+</p>
+<p>
+<h4>
+En resumen, programar en HTML es una buena idea porque es un lenguaje estándar, fácil de aprender, permite crear páginas web atractivas y interactivas, y es esencial para el desarrollo web.
+</p>
+
+
+
+</p>
+<p>
+<h5> PÁGINA DESARROLLADA POR:FERNANDO STRATTA
+</h5>
+</p>
+<p>
+<h5>
+REDACCIÓN DE LA INFORMACIÓN:ANTHONY RAMIREZ & SANTIAGO MONTAÑO
+</h5>
+</p>
+<p>
+<h3>
+Agradecemos el tiempo que tuviste para apoyarnos.
+sin más nos vemos en la siguiente ocasión...
+</h3>
+</p>
+<p>
+<h3>
+Si Gusta saber porque hicimos esta presentación 
+<a href="https://www.youtube.com/watch?v=aoOe-O21fO4&ab_channel=elperrometeorowachiwa">Haga click aqui</a>
+</h3>
+</p>
+</body>
+
+</html>
+
+
